@@ -1,0 +1,477 @@
+canonical_identifier: bkk:krp/KR3eq064/v1
+canonical_location: https://kanripo.org/bkk/KR3eq064/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 願體醫話
+  identifiers:
+    krp: KR3eq064
+  tags:
+    kr-categories: KR3eq
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq064.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq064_000.yaml, hash: 'sha256:fae01b3786500129136177b74a6e6b23d445a8ed7ac947233dd63da8deff9c4f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq064_000.markers.yaml, hash: 'sha256:cd3f5bfd4a1e7a258b872fe7ac7a0de81f18f79978360fc4be987532b70f53bd'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 326
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 17077
+  label: 願體醫話良方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d46
+    span:
+    - body
+    - 4376
+    - 4602
+  label: 解諸物毒解砒霜毒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d47
+    span:
+    - body
+    - 4602
+    - 4762
+  label: 解銀銪水毒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d48
+    span:
+    - body
+    - 4762
+    - 4835
+  label: 解鹽滷毒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d49
+    span:
+    - body
+    - 4835
+    - 4869
+  label: 解河豚毒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d50
+    span:
+    - body
+    - 4869
+    - 4904
+  label: 解野蕈毒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d51
+    span:
+    - body
+    - 4904
+    - 5348
+  label: 附解鴉片毒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d52
+    span:
+    - body
+    - 5348
+    - 5449
+  label: 解諸物鯁魚刺鯁喉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d53
+    span:
+    - body
+    - 5449
+    - 5480
+  label: 諸骨鯁
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d54
+    span:
+    - body
+    - 5480
+    - 5542
+  label: 竹刺鯁喉
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d55
+    span:
+    - body
+    - 5542
+    - 5675
+  label: 解吞五金
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d56
+    span:
+    - body
+    - 5675
+    - 5972
+  label: 救縊死
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d57
+    span:
+    - body
+    - 5972
+    - 6426
+  label: 救刎死
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d58
+    span:
+    - body
+    - 6426
+    - 6755
+  label: 救溺死
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d59
+    span:
+    - body
+    - 6755
+    - 6840
+  label: 救凍死
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d60
+    span:
+    - body
+    - 6840
+    - 6909
+  label: 救熱死
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d61
+    span:
+    - body
+    - 6909
+    - 7909
+  label: 救壓死
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d62
+    span:
+    - body
+    - 7909
+    - 8238
+  label: 十寶散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d63
+    span:
+    - body
+    - 8238
+    - 8379
+  label: 救魘死
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d64
+    span:
+    - body
+    - 8379
+    - 8404
+  label: 救嚇死
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d65
+    span:
+    - body
+    - 8404
+    - 8604
+  label: 救中惡
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d66
+    span:
+    - body
+    - 8604
+    - 9140
+  label: 湯火傷
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d67
+    span:
+    - body
+    - 9140
+    - 9637
+  label: 金刃傷
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d68
+    span:
+    - body
+    - 9637
+    - 10038
+  label: 破傷鳳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d69
+    span:
+    - body
+    - 10038
+    - 10134
+  label: 救諸蟲咬人咬
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d70
+    span:
+    - body
+    - 10134
+    - 10159
+  label: 虎咬爪傷
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d71
+    span:
+    - body
+    - 10159
+    - 10178
+  label: 猴爪傷
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d72
+    span:
+    - body
+    - 10178
+    - 10195
+  label: 馬咬
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d73
+    span:
+    - body
+    - 10195
+    - 10207
+  label: 豬咬
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d74
+    span:
+    - body
+    - 10207
+    - 10666
+  label: 瘋狗咬即猘犬也
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d75
+    span:
+    - body
+    - 10666
+    - 11127
+  label: 蛇咬
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d76
+    span:
+    - body
+    - 11127
+    - 11204
+  label: 蜈蚣咬
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d77
+    span:
+    - body
+    - 11204
+    - 11264
+  label: 壁虎咬
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d78
+    span:
+    - body
+    - 11264
+    - 11446
+  label: 百蟲入耳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d79
+    span:
+    - body
+    - 11446
+    - 11536
+  label: 誤吞水蛭
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d80
+    span:
+    - body
+    - 11536
+    - 11594
+  label: 燒酒醉死
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d81
+    span:
+    - body
+    - 11594
+    - 11617
+  label: 火薰悶絕狼煙煤炭毒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d82
+    span:
+    - body
+    - 11617
+    - 12153
+  label: 喉蛾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d83
+    span:
+    - body
+    - 12153
+    - 12346
+  label: 牙疳
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d84
+    span:
+    - body
+    - 12346
+    - 13122
+  label: 霍亂
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d85
+    span:
+    - body
+    - 13122
+    - 13792
+  label: 鼓脹
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d86
+    span:
+    - body
+    - 13792
+    - 13934
+  label: 小水不通
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d87
+    span:
+    - body
+    - 13934
+    - 14186
+  label: 瘍科
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq064_jc_000-d3d88
+    span:
+    - body
+    - 14186
+    - 17077
+  label: 立消疔瘡膏
+  type: section
+  level: 2
+hash: sha256:4dcb17352d1a0d9abc35159b4ad408f2a15a0a63ba0bfb134da6a20e8b97022e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
