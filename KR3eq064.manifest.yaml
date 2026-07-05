@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eq064_000.yaml, hash: 'sha256:fae01b3786500129136177b74a6e6b23d445a8ed7ac947233dd63da8deff9c4f'}
+  - {seq: 0, filename: KR3eq064_000.yaml, hash: 'sha256:f20561368a3020296add5e16eb3a267aff37d845d1a7aed2862bd6af0e246040'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq064_000.markers.yaml, hash: 'sha256:cd3f5bfd4a1e7a258b872fe7ac7a0de81f18f79978360fc4be987532b70f53bd'}
+  - {seq: 0, role: markers, filename: assets/KR3eq064_000.markers.yaml, hash: 'sha256:67b493220aa5ce21352cb18ded1c8b6b16461673c9ca4d58187abfc6b3bf62b0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -471,7 +471,4 @@ table_of_contents:
   label: 立消疔瘡膏
   type: section
   level: 2
-hash: sha256:4dcb17352d1a0d9abc35159b4ad408f2a15a0a63ba0bfb134da6a20e8b97022e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:653b41051db6c15ff7c4d439f1f581471540b6ca45f12bf814fabf5ddced592e
