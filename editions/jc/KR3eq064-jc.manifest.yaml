@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eq064_000-jc.yaml, hash: 'sha256:f20561368a3020296add5e16eb3a267aff37d845d1a7aed2862bd6af0e246040'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq064_000-jc.markers.yaml, hash: 'sha256:c401062e03bb7d1629aa5a31980012fc755d291661f3f0970d440da275dbec62'}
+  - {seq: 0, role: markers, filename: assets/KR3eq064_000-jc.markers.yaml, hash: 'sha256:dbf99bb8a6c017af2d1378ab7dcac31c3c493e8c26dbedd22ccd5d258e4827e6'}
 table_of_contents:
 - ref:
     seq: 0
@@ -471,4 +471,4 @@ table_of_contents:
   label: 立消疔瘡膏
   type: section
   level: 2
-hash: sha256:1829989269847db252b4b163f791073cabb44f9800a6eceb29258267fba72f46
+hash: sha256:7eb83fd0eb7cf8248f38ed4c72b7476b499ecf78d72836d698d475406448ab25

@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eq064_000.yaml, hash: 'sha256:5ee6d43a6558408552397c1399a6f1f779e193325d250d03347f5de512e1bf0e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq064_000.markers.yaml, hash: 'sha256:7e42c6ab1a794ea1497e811b906c8a09955323c9e0e2c939288f1f6c75e84aef'}
+  - {seq: 0, role: markers, filename: assets/KR3eq064_000.markers.yaml, hash: 'sha256:e53f721d28ac644fb6e2d548b5a6b7c16e3a7445a71cf5e981702ca5675a768a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -471,7 +471,7 @@ table_of_contents:
   label: 立消疔瘡膏
   type: section
   level: 2
-hash: sha256:6f73af13ceb66f62ddec95e251a511b6a2e9ad6d0b8cc1912277845b4f25d820
+hash: sha256:2745594c0eb9dd8db3af889d9c689258c283f1f9349853de918a9ed01ff1cf57
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
